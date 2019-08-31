@@ -6,7 +6,7 @@ solar.lean2015.ann1610-2014.txt is downloaeded from NASA site:
 https://data.giss.nasa.gov/modelforce/solar.irradiance/solar.lean2015.ann1610-2014.txt
 
 <pre>
-$ python solarplot.py
+$ python2 solarplot.py
 </pre>
 
 test.png is the result.
