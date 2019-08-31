@@ -7,6 +7,7 @@ https://data.giss.nasa.gov/modelforce/solar.irradiance/solar.lean2015.ann1610-20
 
 <pre>
 $ python2 solarplot.py
+or
 $ python3 solarplot_py3.py
 </pre>
 
