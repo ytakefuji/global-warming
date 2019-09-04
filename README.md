@@ -28,7 +28,11 @@ $ python readNC.py|grep 136 >noaaTSI1610-2019
 To generate year and TSI file(t.csv) 
 $ python noaa.py
 
-</pre>
-
 t.csv can be generated. 
+
+To generate noaa.png, run the following command
+$ python noaaplot.py
+
+noaa.png is finally generated.
 =======
+
