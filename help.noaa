@@ -1,0 +1,13 @@
+1.Download TSI nc file (tsi_v02r01_yearly_s1610_e2018_c20190409.nc) from the following:
+https://www.ncei.noaa.gov/thredds/fileServer/cdr-total-solar-irradiance/yearly/tsi_v02r01_yearly_s1610_e2018_c20190409.nc
+
+In order to read nc file,
+$ pip install netcdf4
+
+To generate TSI file
+$ python readNC.py|grep 136 >noaaTSI1610-2019
+
+
+To generate year and TSI csv file
+$ python noaa.py
+
