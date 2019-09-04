@@ -32,6 +32,7 @@ t.csv can be generated.
 
 To generate noaa.png, run the following command
 $ python noaaplot.py
+</pre>
 
 noaa.png is finally generated.
 =======
