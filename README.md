@@ -12,7 +12,7 @@ $ python3 solarplot_py3.py
 </pre>
 
 test.png is the result.
-================================
+===========
 # NOAA TSI
 NOAA file is based on netCDF4.
 In order to read .nc file, you can use netCDF4 library.
@@ -25,7 +25,7 @@ https://www.ncei.noaa.gov/thredds/fileServer/cdr-total-solar-irradiance/yearly/t
 To generate TSI file (noaaTSI1610-2019)
 $ python readNC.py|grep 136 >noaaTSI1610-2019
 
-To generate year and TSI file() 
+To generate year and TSI file(t.csv) 
 $ python noaa.py
 
 </pre>
