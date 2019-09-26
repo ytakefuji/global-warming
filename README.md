@@ -1,5 +1,5 @@
 # global-warming
-Global warming is advancing every year. Total solar irradiance (TSI) is also increasing every year!
+Global warming is advancing every year. Total solar irradiance (TSI) is also increasing every year.  Remember that measurements of the Sun from space began in November 1978. Data before 1978 is vulnerable or uncertain.
 
 solarplot.py (Python2) or solarplot_py3.py (Python3) is a program to plot total solar irradiance from 1610 to 2014.
 
