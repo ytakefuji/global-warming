@@ -38,4 +38,19 @@ $ python noaaplot.py
 
 noaa.png is finally generated.
 =======
-# 
+# global temperature and co2 density
+CO2 data can be downloaded from:
+
+ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
+
+Global ocean temperature and Land temperature can be downloaded:
+
+https://www.ncdc.noaa.gov/cag/global/time-series/globe/land/1/3/1958-2019
+<pre>
+In order to obtain the co2 density, run the following command.
+$ python co2.py
+In order to obtain the global temperature, run the following command.
+$ python gtemp.py
+In order to calculate the correlation coefficient,
+$ python corr.py
+
