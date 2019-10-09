@@ -44,6 +44,7 @@ CO2 data can be downloaded from:
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
 
 Global ocean temperature and Land temperature can be downloaded:
+(temperature anomalies, deviations from the corresponding 1951-1980 means)
 
 https://www.ncdc.noaa.gov/cag/global/time-series/globe/land/1/3/1958-2019
 <pre>
