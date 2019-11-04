@@ -54,6 +54,7 @@ In order to obtain the global temperature, run the following command.
 $ python gtemp.py
 In order to calculate the correlation coefficient,
 $ python corr.py
+</pre>
 
 =======
 # TSI measurement technology with uncertainty
