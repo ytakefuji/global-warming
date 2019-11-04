@@ -13,7 +13,7 @@ or
 $ python3 solarplot_py3.py
 </pre>
 
-<a href='./test.png>test.png</a> is the result.
+test.png is the result.
 ===========
 # NOAA TSI
 NOAA file is based on netCDF4.
