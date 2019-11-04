@@ -58,7 +58,7 @@ $ python corr.py
 
 
 # TSI measurement technology with uncertainty
-
-tsi.jpg shows uncertainty in TSI measurement:
+tsi.jpg 
+shows uncertainty in TSI measurement:
 
 ftp://ftp.ncdc.noaa.gov/pub/data/sds/cdr/presentations/2009/pilewskie-2013.pdf
