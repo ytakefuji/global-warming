@@ -50,6 +50,7 @@ https://www.ncdc.noaa.gov/cag/global/time-series/globe/land/1/3/1958-2019
 <pre>
 In order to obtain the co2 density, run the following command.
 $ python co2.py
+
 In order to obtain the global temperature, run the following command.
 Download GLB.Ts+dSST.csv file:
 https://data.giss.nasa.gov/gistemp/tabledata_v3/https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts+dSST.csv
