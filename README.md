@@ -25,7 +25,7 @@ In order to read .nc file, you can use netCDF4 library.
 $ pip install netCDF4
 You have to download tsi_v02r01_yearly_s1610_e2018_c20190409.nc file:
 
-https://www.ncei.noaa.gov/thredds/fileServer/cdr-total-solar-irradiance/yearly/tsi_v02r01_yearly_s1610_e2018_c20190409.nc
+https://www.ncei.noaa.gov/data/total-solar-irradiance/access/yearly/tsi_v02r01_yearly_s1610_e2019_c20200226.nc
 
 To generate TSI file (noaaTSI1610-2019)
 $ python readNC.py|grep 136 >noaaTSI1610-2019
