@@ -16,6 +16,9 @@ $ python3 solarplot_py3.py
 test.png is the result.
 ===========
 # NOAA TSI
+
+https://www.ncei.noaa.gov/data/total-solar-irradiance/access/ancillary-data/tsi-ssi_v02r01_observed-tsi-composite_s19780101_e20200930_c20201026.txt
+
 NOAA file is based on netCDF4.
 In order to read .nc file, you can use netCDF4 library.
 <pre>
