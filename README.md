@@ -56,7 +56,7 @@ Download co2_mm_mlo.txt from the following site:
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
 
-You can modify co2.py to cope with co2_mm_mlo.txt where text file has 8 chunks.
+You can modify co2_v3.py to cope with co2_mm_mlo.txt where text file has 8 chunks.
 
 </pre>
 
