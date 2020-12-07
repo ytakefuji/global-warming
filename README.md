@@ -14,6 +14,9 @@ $ python3 solarplot_py3.py
 </pre>
 
 test.png is the result.
+
+<img src='test.png' height=400 width=600>
+
 ===========
 # NOAA TSI
 
