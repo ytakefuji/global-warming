@@ -48,9 +48,17 @@ noaa.png is finally generated.
 
 =======
 # global temperature and co2 density
-CO2 data can be downloaded from:
+
+<pre>
+# exercise for students
+
+Download co2_mm_mlo.txt from the following site:
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
+
+You can modify co2.py to cope with co2_mm_mlo.txt where text file has 8 chunks.
+
+</pre>
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
 
