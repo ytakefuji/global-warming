@@ -82,4 +82,6 @@ $ python corr.py
 tsi.jpg 
 shows uncertainty in TSI measurement:
 
+<img src='tsi.jpg' height=400 width=600>
+
 ftp://ftp.ncdc.noaa.gov/pub/data/sds/cdr/presentations/2009/pilewskie-2013.pdf
