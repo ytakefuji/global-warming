@@ -43,6 +43,9 @@ $ python noaaplot.py
 </pre>
 
 noaa.png is finally generated.
+
+<img src='noaa.png' height=400 width=600>
+
 =======
 # global temperature and co2 density
 CO2 data can be downloaded from:
