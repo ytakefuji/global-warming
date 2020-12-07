@@ -59,6 +59,8 @@ ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
 You can modify co2_v3.py to cope with co2_mm_mlo.txt where text file has 8 chunks.
 
 </pre>
+<img src="co2.png" height=300 width=600>
+
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
 
